@@ -8,4 +8,4 @@ more things
 
 this is the third thing 
 
-here (are)is some changes
+here are some changes
